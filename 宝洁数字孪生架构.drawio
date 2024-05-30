@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T06:48:33.079Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gHaRJdZq0GxtnzNWgEIw" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T06:48:54.571Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="a0u0f6-HH8wkHgE5fwl_" version="24.4.10" type="github">
   <diagram name="第 1 页" id="gCUOF_lLg9kGs2Vuu3xS">
     <mxGraphModel dx="2078" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="cVOov0wrujAx7iTN1BO1-10" value="采集数据、机理数据、业务系统数据、人工建模数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="640" width="500" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cVOov0wrujAx7iTN1BO1-11" value="能力组建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="cVOov0wrujAx7iTN1BO1-11" value="能力组件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="100" y="570" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cVOov0wrujAx7iTN1BO1-12" value="博智镜空可视化平台：自主研发的渲染平台、自定义配置的页面搭建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
