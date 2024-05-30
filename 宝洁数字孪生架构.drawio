@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T06:18:55.332Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.0" etag="MayBkGnOumWNa79z5wl3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T06:35:26.597Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="QSDepM4vtm0LpNFyNGgx" version="24.4.10" type="github">
   <diagram name="第 1 页" id="gCUOF_lLg9kGs2Vuu3xS">
-    <mxGraphModel>
+    <mxGraphModel dx="939" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cVOov0wrujAx7iTN1BO1-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="760" width="690" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOov0wrujAx7iTN1BO1-2" value="数字基础设施" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="390" y="760" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOov0wrujAx7iTN1BO1-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="690" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOov0wrujAx7iTN1BO1-4" value="数字孪生中枢" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="390" y="430" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOov0wrujAx7iTN1BO1-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="690" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOov0wrujAx7iTN1BO1-6" value="数字孪生应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="330" y="80" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOov0wrujAx7iTN1BO1-7" value="采集设施" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="100" y="840" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOov0wrujAx7iTN1BO1-8" value="传感器、视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="855" width="510" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOov0wrujAx7iTN1BO1-9" value="数据融合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="100" y="620" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOov0wrujAx7iTN1BO1-10" value="采集数据、机理数据、业务系统数据、人工建模数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="620" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOov0wrujAx7iTN1BO1-11" value="能力组建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="100" y="500" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOov0wrujAx7iTN1BO1-12" value="博智镜空可视化平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="500" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOov0wrujAx7iTN1BO1-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="500" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOov0wrujAx7iTN1BO1-14" value="数字工厂" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOov0wrujAx7iTN1BO1-15" value="1、工厂总览：厂区介绍、面积、位置" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="165" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cVOov0wrujAx7iTN1BO1-16" value="2、生产总览：&lt;span style=&quot;background-color: initial;&quot;&gt;当前品牌、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;当前能耗（天然气 M3/msu, 电 KWH/msu）、&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;安全生产天数- 小时数、&lt;/span&gt;MTD 月度产量、年度产量预测、当前MOE预测" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="190" width="450" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
