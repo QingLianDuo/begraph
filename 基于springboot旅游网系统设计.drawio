@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.8">
   <diagram name="第 1 页" id="kGdFoOqjAgr1KZH3qnpg">
-    <mxGraphModel dx="1546" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="692" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -360,6 +360,72 @@
             <mxPoint x="1439.5" y="220" as="sourcePoint" />
             <mxPoint x="1439.5" y="161" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sTMlbBnESELgm27xDzZq-81" target="sTMlbBnESELgm27xDzZq-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-81" value="需求分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="595" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sTMlbBnESELgm27xDzZq-82" target="sTMlbBnESELgm27xDzZq-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-82" value="技术选型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="670" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-83" value="系统设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="745" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-84" value="系统实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="825" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sTMlbBnESELgm27xDzZq-85" target="sTMlbBnESELgm27xDzZq-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-85" value="系统测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="900" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-86" value="爬取携程旅游网数据、数据清洗和预处理、旅游数据分析、旅游网后台系统实现、可视化展示平台、旅游网站" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="595" width="400" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-87" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Python以及其爬虫框架Scrapy+Java以及其框架Springboot+Mysql+Vue&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="670" width="400" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-88" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="750" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-89" value="&lt;span style=&quot;text-align: start;&quot;&gt;Scrapy爬虫框架&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="755" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-90" value="&lt;span style=&quot;text-align: start;&quot;&gt;SpringBoot&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="755" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-91" value="&lt;span style=&quot;text-align: start;&quot;&gt;Mybatis&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="755" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-92" value="&lt;span style=&quot;text-align: start;&quot;&gt;Mysql存储&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="795" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-93" value="&lt;span style=&quot;text-align: start;&quot;&gt;数据预处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="795" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-94" value="&lt;span style=&quot;text-align: start;&quot;&gt;后台系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="795" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-95" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;旅游网站&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="835" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-96" value="&lt;div style=&quot;text-align: start;&quot;&gt;数据可视化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="835" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-98" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;测试系统功能，修复系统BUG，优化系统的易用性&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="900" width="400" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.81;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sTMlbBnESELgm27xDzZq-84" target="sTMlbBnESELgm27xDzZq-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTMlbBnESELgm27xDzZq-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sTMlbBnESELgm27xDzZq-83" target="sTMlbBnESELgm27xDzZq-88">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
